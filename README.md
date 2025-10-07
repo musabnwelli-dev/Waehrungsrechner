@@ -40,6 +40,7 @@ Wähle Run 'WindowCurrencyConverter.main()' aus.
 
 ## Voraussetzungen
 Java 17 oder höher
+
 Optional: IntelliJ IDEA oder eine andere Java-IDE
 
 ## Technischer Überblick
