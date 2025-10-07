@@ -63,6 +63,8 @@ Leidenschaftlich interessiert an Softwareentwicklung, sauberem Code und moderner
 
 -----------------------------------------------------------------------------------------------------------
 
+## English
+
 # Currency Converter (Java Swing)
 
 A simple and elegant **currency converter built with Java Swing**.  
