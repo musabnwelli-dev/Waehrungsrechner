@@ -45,14 +45,20 @@ Optional: IntelliJ IDEA oder eine andere Java-IDE
 
 ## Technischer Überblick
 Dieses Projekt verwendet das Strategy Pattern (Strategie-Muster), um verschiedene Umrechnungsarten flexibel zu handhaben:
+
 FixedCurrencyConverter → feste (statische) Wechselkurse
+
 LatestCurrencyConverter → für Echtzeitdaten (API-bereit)
+
 HistoricalCurrencyConverter → erlaubt Umrechnungen basierend auf einem gewählten Datum
+
 Die Klasse CurrencyConversionHandler dient als Vermittler zwischen der grafischen Oberfläche (UI) und der Umrechnungslogik.
 
 ## Autor
 Musab Nwelli
+
 Studiengang: B.Sc. Software System Development – Universität Hamburg 🇩🇪
+
 Leidenschaftlich interessiert an Softwareentwicklung, sauberem Code und moderner Java-Technologie.
 
 -----------------------------------------------------------------------------------------------------------
@@ -64,11 +70,6 @@ It allows users to convert between multiple currencies using different conversio
 
 ---
 
-## Screenshots
-
-
-
----
 
 ## Features
 
@@ -96,18 +97,25 @@ Select Run 'WindowCurrencyConverter.main()'.
 
 ## Requirements
 Java 17 or newer
+
 Optional: IntelliJ IDEA or another IDE for development
 
 ## Implementation Overview
 This project follows a Strategy Pattern to manage different conversion types:
+
 FixedCurrencyConverter → uses static exchange rates
+
 LatestCurrencyConverter → designed for real-time data (API-ready)
+
 HistoricalCurrencyConverter → allows conversion using a selected date
+
 The CurrencyConversionHandler acts as a bridge between the UI and the conversion logic.
 
 ## Author
 Musab Nwelli
+
 B.Sc. Software System Development — University of Hamburg 🇩🇪
+
 Passionate about software engineering, clean code, and modern Java development.
 
 
