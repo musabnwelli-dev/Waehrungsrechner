@@ -9,6 +9,8 @@ Er ermöglicht die Umrechnung zwischen verschiedenen Währungen mit unterschiedl
 
 ## Screenshots
 
+![Main Window](https://github.com/musabnwelli-dev/Waehrungsrechner/blob/e45b9fbb75599bc3cfb9cda5543df0a131f428ee/docs/Bildschirmfoto%202025-10-07%20um%2022.32.06.png)
+
 
 
 ---
