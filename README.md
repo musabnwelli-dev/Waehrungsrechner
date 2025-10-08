@@ -125,6 +125,9 @@ HistoricalCurrencyConverter → allows conversion using a selected date
 
 The CurrencyConversionHandler acts as a bridge between the UI and the conversion logic.
 
+The real-time and historical conversions use external API requests to retrieve current and past exchange rates.
+This was my first practical experience with REST APIs in Java.
+
 ## Author
 Musab Nwelli
 
