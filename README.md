@@ -63,6 +63,9 @@ HistoricalCurrencyConverter → erlaubt Umrechnungen basierend auf einem gewähl
 
 Die Klasse CurrencyConversionHandler dient als Vermittler zwischen der grafischen Oberfläche (UI) und der Umrechnungslogik.
 
+Die Echtzeit- und historischen Umrechnungen nutzen externe **API-Anfragen**, um aktuelle bzw. vergangene Wechselkurse abzurufen.  
+Dies war meine erste praktische Erfahrung mit **REST-APIs** in Java.
+
 ## Autor
 Musab Nwelli
 
